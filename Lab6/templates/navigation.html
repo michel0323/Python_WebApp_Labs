@@ -1,0 +1,9 @@
+<header>
+    <nav>
+        <ul>
+            {% for link in nav %}
+            <li><a href= {{ link.url }} style = "text-decoration: none;">{{ link.name }}</a></li>
+            {% endfor %}
+        </ul>
+    </nav>
+</header>

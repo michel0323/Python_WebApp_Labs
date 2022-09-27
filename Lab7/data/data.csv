@@ -1,0 +1,21 @@
+No.,Package,Priority,Is a Dependency?
+1,adduser,important,yes
+2,apt,important,yes
+3,apt-utils,important,no
+4,base-files,required,yes
+5,base-passwd,required,yes
+6,bash,required,no
+7,bsdmainutils,important,no
+8,bsdutils,required,yes
+9,coreutils,required,yes
+10,cpio,important,yes
+11,cron,important,yes
+12,dash,required,yes
+13,debconf,required,yes
+14,debconf-i18n,important,no
+15,debian-archive-keyring,important,yes
+16,debianutils,required,yes
+17,diffutils,required,no
+18,dmidecode,important,no
+19,dmsetup,optional,yes
+20,dpkg,required,yes
